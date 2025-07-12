@@ -23,14 +23,14 @@ export default function Navbar() {
     <header className="relative w-full bg-cover bg-center" style={{ backgroundImage: "url('/your-bg-image.jpg')" }}>
       <div className="bg-white/80 dark:bg-black/80 backdrop-blur-md w-full px-4 md:px-12 py-4 flex justify-between items-center">
         {/* Left: Page Name */}
-        <div className="text-xl font-bold text-black dark:text-white">Developer Portfolio</div>
+        <div className="text-xl font-bold text-black dark:text-white">College service</div>
 
         {/* Right: Navigation */}
         <div className="hidden md:flex items-center space-x-6 text-black dark:text-white">
-          <a href="#home" className="hover:text-blue-500">Home</a>
-          <a href="#about" className="hover:text-blue-500">About</a>
-          <a href="#portfolio" className="hover:text-blue-500">Portfolio</a>
-          <a href="#blog" className="hover:text-blue-500">Blog</a>
+          <a href="#home" className="hover:text-blue-500">Colleges</a>
+          <a href="#about" className="hover:text-blue-500">Admission</a>
+          <a href="#portfolio" className="hover:text-blue-500">My College</a>
+          
 
         <div className="flex space-x-4">
          
